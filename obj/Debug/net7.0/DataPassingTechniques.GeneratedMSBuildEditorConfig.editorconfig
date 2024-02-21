@@ -9,55 +9,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DataPassingTechniques
 build_property.RootNamespace = DataPassingTechniques
-build_property.ProjectDir = C:\Users\Sures\OneDrive\Desktop\AnushaLearnings\DataPassingTechniques\
+build_property.ProjectDir = C:\Users\Sures\OneDrive\Desktop\AnushaLearnings\DataPassingTechniques\DataPassingTechniques\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Sures\OneDrive\Desktop\AnushaLearnings\DataPassingTechniques
+build_property.MSBuildProjectDirectory = C:\Users\Sures\OneDrive\Desktop\AnushaLearnings\DataPassingTechniques\DataPassingTechniques
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/Views/Home/Index.cshtml]
+[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/DataPassingTechniques/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/Views/Home/Privacy.cshtml]
+[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/DataPassingTechniques/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/Views/SampleStronglyTypedView/GetCountryDetails.cshtml]
+[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/DataPassingTechniques/Views/SampleStronglyTypedView/GetCountryDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FtcGxlU3Ryb25nbHlUeXBlZFZpZXdcR2V0Q291bnRyeURldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/Views/SampleViewBag/Index.cshtml]
+[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/DataPassingTechniques/Views/SampleTempData/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FtcGxlVGVtcERhdGFcQ29udGFjdFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/DataPassingTechniques/Views/SampleTempData/GetCountryDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FtcGxlVGVtcERhdGFcR2V0Q291bnRyeURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/DataPassingTechniques/Views/SampleViewBag/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FtcGxlVmlld0JhZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/Views/SampleViewData/GetCountryDetails.cshtml]
+[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/DataPassingTechniques/Views/SampleViewData/GetCountryDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FtcGxlVmlld0RhdGFcR2V0Q291bnRyeURldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/Views/SampleViewData/Index.cshtml]
+[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/DataPassingTechniques/Views/SampleViewData/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FtcGxlVmlld0RhdGFcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/Views/Shared/Error.cshtml]
+[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/DataPassingTechniques/Views/SAmpleViewModel/GetCountryDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU0FtcGxlVmlld01vZGVsXEdldENvdW50cnlEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/DataPassingTechniques/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/DataPassingTechniques/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/Views/_ViewImports.cshtml]
+[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/DataPassingTechniques/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/Views/_ViewStart.cshtml]
+[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/DataPassingTechniques/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/Views/Shared/_Layout.cshtml]
+[C:/Users/Sures/OneDrive/Desktop/AnushaLearnings/DataPassingTechniques/DataPassingTechniques/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8qsz9juch2

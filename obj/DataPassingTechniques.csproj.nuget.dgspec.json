@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sures\\OneDrive\\Desktop\\AnushaLearnings\\DataPassingTechniques\\DataPassingTechniques.csproj": {}
+    "C:\\Users\\Sures\\OneDrive\\Desktop\\AnushaLearnings\\DataPassingTechniques\\DataPassingTechniques\\DataPassingTechniques.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sures\\OneDrive\\Desktop\\AnushaLearnings\\DataPassingTechniques\\DataPassingTechniques.csproj": {
+    "C:\\Users\\Sures\\OneDrive\\Desktop\\AnushaLearnings\\DataPassingTechniques\\DataPassingTechniques\\DataPassingTechniques.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sures\\OneDrive\\Desktop\\AnushaLearnings\\DataPassingTechniques\\DataPassingTechniques.csproj",
+        "projectUniqueName": "C:\\Users\\Sures\\OneDrive\\Desktop\\AnushaLearnings\\DataPassingTechniques\\DataPassingTechniques\\DataPassingTechniques.csproj",
         "projectName": "DataPassingTechniques",
-        "projectPath": "C:\\Users\\Sures\\OneDrive\\Desktop\\AnushaLearnings\\DataPassingTechniques\\DataPassingTechniques.csproj",
+        "projectPath": "C:\\Users\\Sures\\OneDrive\\Desktop\\AnushaLearnings\\DataPassingTechniques\\DataPassingTechniques\\DataPassingTechniques.csproj",
         "packagesPath": "C:\\Users\\Sures\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sures\\OneDrive\\Desktop\\AnushaLearnings\\DataPassingTechniques\\obj\\",
+        "outputPath": "C:\\Users\\Sures\\OneDrive\\Desktop\\AnushaLearnings\\DataPassingTechniques\\DataPassingTechniques\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
