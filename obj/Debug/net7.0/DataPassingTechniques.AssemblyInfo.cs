@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataPassingTechniques")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74641722b15448525eda0a9dbcd643a03fac9232")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+184985286ffac7bdfc5de34fa82496650c1ee5bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataPassingTechniques")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataPassingTechniques")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
